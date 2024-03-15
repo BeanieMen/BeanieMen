@@ -6,8 +6,7 @@
 <br/>
 
 <ul>
-  <li>🔭 Currently pioneering Lung Cancer Detection.</li>
-  <li>🌱 Mastering Express.</li>
+  <li>🌱 Mastering NextJS.</li>
   <li>👯 Open to collaborating on hackathons</li>
   <li>📫 Reach out to me at jainarjav886@gmail.com</li>
 </ul>
